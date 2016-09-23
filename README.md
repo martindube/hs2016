@@ -9,7 +9,7 @@ Si vous êtes client de MySpace, vKontakte, Adobe, Linkedin, Mate 1, Twitter ou 
 
 ## FR
 
-Cette présentation par [vn](https://twitter.com/sys6x) et [Mart](https://ca.linkedin.com/in/mdube22) prend tout son sens avec les démos et les explications. Le vidéo devrait être diffusé sur [Youtube](https://www.youtube.com/user/hackfestca) d'ici quelques semaines.
+Cette présentation par [vn](https://twitter.com/sys6x) et [Mart](https://ca.linkedin.com/in/mdube22) prend tout son sens avec les démos et les explications. Le vidéo devrait être diffusé sur [Youtube](https://www.youtube.com/user/hackfestca) d'ici quelques semaines. Il est également prévu de traduire la présentation en anglais (elle est présentement en franglais). 
 
 L'objectif était de prendre conscience:
  - de ce qui circule sur Internet (leaks);
@@ -23,7 +23,7 @@ Bon changement de mots de passes à tous!
 
 ## EN
 
-This presentation by [vn](https://twitter.com/sys6x) and [Mart](https://ca.linkedin.com/in/mdube22) and makes sense only with the demos and explanations. The video should be on [Youtube](https://www.youtube.com/user/hackfestca) a few weeks.
+This presentation by [vn](https://twitter.com/sys6x) and [Mart](https://ca.linkedin.com/in/mdube22) and makes sense only with the demos and explanations. The video should be on [Youtube](https://www.youtube.com/user/hackfestca) a few weeks. It is also planned to translate the presentation in english (It is currently in frenglish). 
 
 The goal was to raise awareness:
   - of what circulates on the Internet (leaks);
