@@ -26,9 +26,9 @@ Bon changement de mots de passes à tous!
 This presentation by [vn](https://twitter.com/sys6x) and [Mart](https://ca.linkedin.com/in/mdube22) and makes sense only with the demos and explanations. The video should be on [Youtube](https://www.youtube.com/user/hackfestca) a few weeks. It is also planned to translate the presentation in english (It is currently in frenglish). 
 
 The goal was to raise awareness:
-  - of what circulates on the Internet (leaks);
-  - uses that can be made;
-  - good practices for protecting our digital lifes.
+ - of what circulates on the Internet (leaks);
+ - uses that can be made;
+ - good practices for protecting our digital lifes.
 
 Thank you to guinea pigs who accepted to expose their passwords to prove the points.
 
